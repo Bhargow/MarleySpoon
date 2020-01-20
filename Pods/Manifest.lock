@@ -1,0 +1,22 @@
+PODS:
+  - Contentful (5.0.6):
+    - Contentful/ImageOptions (= 5.0.6)
+  - Contentful/ImageOptions (5.0.6)
+  - MBProgressHUD (1.2.0)
+
+DEPENDENCIES:
+  - Contentful
+  - MBProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - Contentful
+    - MBProgressHUD
+
+SPEC CHECKSUMS:
+  Contentful: d03086d86cdf3ea0f0da519864019f3375c32755
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+
+PODFILE CHECKSUM: c0f5d0da057b2fccd6487cb4042201dc8e7fe75c
+
+COCOAPODS: 1.8.4
